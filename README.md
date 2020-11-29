@@ -1,1 +1,1 @@
-#MyAwesomeCart
+A Web based application using Django framework, Python in backend, HTML ,CSS, Bootstrap in frontend, Javascript ,Jquery and Ajax in serve side scripting, and SQLite for Database Management where customer can buy the products of interest and also track their order.
